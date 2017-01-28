@@ -1,5 +1,6 @@
 # test
 
+
 git clone <URL> retrieves the repository from github
 git status checks status of files
 touch name creates a document with a name
